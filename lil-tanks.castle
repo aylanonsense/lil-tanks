@@ -1,5 +1,5 @@
 ---
-main: main.lua
+main: client.lua
 name: lil tanks
 username: bridgs
 primaryColor: C0C0C0
