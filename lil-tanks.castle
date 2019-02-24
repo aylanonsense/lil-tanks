@@ -1,0 +1,7 @@
+---
+main: main.lua
+name: lil tanks
+username: bridgs
+primaryColor: C0C0C0
+coverImage: cover-image.png
+description: A lil online multiplayer shooty-goaly-type game.
