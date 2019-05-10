@@ -1,7 +1,9 @@
 ---
-main: client.lua
+main: main.lua
 name: lil tanks
 username: bridgs
-primaryColor: C0C0C0
+primaryColor: EF3B09
 coverImage: cover-image.png
-description: A lil online multiplayer shooty-goaly-type game.
+description: A lil online multiplayer game of soccer except tanks?
+multiplayer:
+    - enabled: true

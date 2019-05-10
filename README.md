@@ -1,2 +1,2 @@
 # lil-tanks
-A lil online multiplayer shooty-goaly-type game.
+A lil online multiplayer game of soccer except tanks?
