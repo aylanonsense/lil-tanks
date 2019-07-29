@@ -4,6 +4,6 @@ name: lil tanks
 username: bridgs
 primaryColor: EF3B09
 coverImage: cover-image.png
-description: A lil online multiplayer game of soccer except tanks?
+description: An online multiplayer game of tank-soccer. Network programming is tricky, so this might by a difficult starting point.
 multiplayer:
     - enabled: true
